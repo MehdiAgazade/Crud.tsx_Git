@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mehdi",
+      "surname": "Agazade",
+      "age": 16,
+      "email": "mehdi@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Ali",
+      "surname": "Mammadov",
+      "age": 19,
+      "email": "ali@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Nihad",
+      "surname": "Aliyev",
+      "age": 21,
+      "email": "nihad@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Murad",
+      "surname": "Huseynov",
+      "age": 18,
+      "email": "murad@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Rauf",
+      "surname": "Hasanov",
+      "age": 22,
+      "email": "rauf@gmail.com"
+    }
+  ]
+}
+
